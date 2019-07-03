@@ -1,5 +1,7 @@
-# Human Factors Psychology Lab
-### 2019 Summer Workshop
+# Human Factors Psychology Lab Workshop Series
+### Winter 2019 (to be updated)
+### Summer 2019 (go to 'DeepNLP with Python' folder)
+
 
 ### 1. 환경 준비
 
