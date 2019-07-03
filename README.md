@@ -39,19 +39,18 @@ https://www.anaconda.com/distribution/
 
 처음 오시는 분들은 위 1번만 충족되어도 실습 따라하는 데는 문제 없습니다. 기타 데이터 분석을 하고 싶은 사람은 아래 사항도 준비해오시기 바랍니다. 
 
-### 2. [심화] python library 구동 확인
+### 2. [심화] (HFPLab Member는 필수. 그 외는 선택사항)
 
-위 1번 사항이 이미 충족된 사람은, 주피터 노트북에서 다음 패키지 로딩에 문제가 없으면 됩니다.
+### 2.1. Python 기본 실습 준비물
 
-2.1. 파이썬 분석 및 시각화: Numpy, pandas, matplotlib, seaborn, wordcloud
+아래 라이브러리들이 설치되어야 합니다. 
 
-2.2. 텍스트 분석: nltk, KoNLPy, gensim, pyLDAvis, sklearn
+numpy, pandas, matplotlib, seaborn 
 
-2.3. 추가로 다음 코퍼스, tagger와 데이터를 다운로드 받는다. (강의 자료 내에 포함되어있습니다).
+2.1.1. Anaconda 환경에서 설치하는 법 참고자료를 오늘 중으로 다시 업데이트 하겠습니다. 그 사이 찾아보고 싶다면 구글에 "아나콘다 환경 설치 또는 아나콘다 환경에 라이브러리 설치" 등 검색하시면 나옵니다. 
 
-nltk.download('wordnet')
-nltk.download('brown')
-nltk.download('gutenberg')
-nltk.download('maxent_treebank_pos_tagger')
-국민청원데이터(다운로드 링크: https://s3.ap-northeast-2.amazonaws.com/data10902/petition/petition.csv 출처: https://github.com/akngs/petitions에서 전체 데이터인 petetion.csv 다운로드)
+### 2.2. Text Preprocessing + DeepNLP 실습
 
+여기 자료를 참고할 예정입니다. 
+아래 링크로 가서 ‘setup_check.ipynb’ 파일에 필요한 패키지 및 구동 확인할 수 있는 코드가 있습니다. 
+https://github.com/psygrammer/deepnlp
