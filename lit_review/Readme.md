@@ -1,3 +1,3 @@
-- HRI/ HCI Literature Review
-- Social Cognition, Working Memory, Executive Function Literature Review
+- HRI/ HCI Literature Review (Graduate) 
+- Social Cognition, Working Memory, Executive Function Literature Review (Undergrad RAs)
 
