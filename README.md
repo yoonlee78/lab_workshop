@@ -2,9 +2,11 @@
 
 ---------
 #### Summer 2019 
+폴더명 : 내용 
+
 - DeepNLP : 밑바닥 딥러닝 발제 <br>
 - EEG : Steven Luck's book 발제 <br>
-- HRI/HCI paper review <br>
+- HRI : paper review <br>
 
 ---------
 #### Winter 2019 (to be updated)
