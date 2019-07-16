@@ -1,10 +1,13 @@
 # Human Factors Psychology Lab Workshop Series
 
 ---------
+#### Summer 2019 
+- DeepNLP : 밑바닥 딥러닝 발제 <br>
+- EEG : Steven Luck's book 발제 <br>
+- HRI/HCI paper review <br>
 
+---------
 #### Winter 2019 (to be updated)
-#### Summer 2019 (go to 'DeepNLP with Python' folder)
-
 ---------
 
 ### 1. 환경 준비
