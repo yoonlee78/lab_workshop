@@ -58,8 +58,6 @@ https://www.anaconda.com/distribution/
 
 numpy, pandas, matplotlib, seaborn 
 
-2.1.1. Anaconda 환경에서 설치하는 법 참고자료를 오늘 중으로 다시 업데이트 하겠습니다. 그 사이 찾아보고 싶다면 구글에 "아나콘다 환경 설치 또는 아나콘다 환경에 라이브러리 설치" 등 검색하시면 나옵니다. 
-
 ### 2.2. Text Preprocessing + DeepNLP 실습
 
 여기 자료를 참고할 예정입니다. 
