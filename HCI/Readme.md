@@ -1,3 +1,5 @@
+Study Materials managed by Whani Kim [domeis](https://github.com/Domeis/Summer-Study). Please refer to this link for updates.
+
 References
 
 1. Sarsam S. M., Al-Samarraie H. (2018). Toward incorporating personality into the design of an interface: a method for facilitating users’ interaction with the display, 28(1), 75-96
