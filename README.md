@@ -14,7 +14,7 @@
 
 - learn important libraries for data analysis using numpy, pandas, matplotlib, and others
 
-#### New materials coming soon!
+#### _New materials coming soon!_
 
 ## III. Text analysis with Python
 
