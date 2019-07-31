@@ -22,6 +22,8 @@
 
 ### 1. Workshop Material [Ver.1](https://github.com/yoonlee78/textmining)
 
+### 2. Other [ver.](https://github.com/psynlp/Training-and-Techniques/tree/master/0704/NLP_Intro) @[PSYNLP](https://github.com/psynlp/Training-and-Techniques/blob/master/README.md) 
+
 #### _New materials coming soon!_
 
 ## IV. NLP with Deep Learning
