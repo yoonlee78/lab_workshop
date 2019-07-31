@@ -28,6 +28,6 @@
 
 ## IV. NLP with Deep Learning
 
-### 1. Deep Learning from Scratch [link]
+### 1. Deep Learning from Scratch [link](https://github.com/yoonlee78/lab_workshop/tree/master/DeepNLP)
 
 #### _NLP with Deep Learning - coming soon!_
