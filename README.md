@@ -30,4 +30,6 @@
 
 ### 1. Deep Learning from Scratch [link](https://github.com/yoonlee78/lab_workshop/tree/master/DeepNLP)
 
-#### _NLP with Deep Learning - coming soon!_
+### 2. Deep Learning with Keras (Text) [link](https://github.com/yoonlee78/cogpsi/tree/master/keras/chp6_text_and_sequence)
+
+#### _New materials coming soon!_
