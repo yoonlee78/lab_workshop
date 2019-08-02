@@ -1,31 +1,35 @@
-# Python for Psychologists
+# Python for Psychologists:NLP
 
-## Python 101
+## I. Python 101
 
 - Basic components of Python syntax and rules.
 
 ### 1. Workshop Material [Ver.1](https://github.com/yoonlee78/pythonbootcamp) (created by Yoon Kyung Lee)
 
-### 2. [latest] Workshop Material [Ver.2](https://github.com/jehunprxzxc/PY-BOOTCAMP2019) (created by Jehun Hong)
+### 2. Workshop Material [Ver.2](https://github.com/jehunprxzxc/PY-BOOTCAMP2019) (created by Jehun Hong)[latest!]
 
-### 3. Workshop Material Ver.3 coming!
+#### _New version coming soon!_
 
-## Introduction to Data Analysis with Python
+## II. Introduction to Data Analysis with Python
 
 - learn important libraries for data analysis using numpy, pandas, matplotlib, and others
 
-### New materials coming soon!
+#### _New materials coming soon!_
 
-## Text analysis with Python
+## III. Text analysis with Python
 
 - learn basic preprocessing of text data using python
 
 ### 1. Workshop Material [Ver.1](https://github.com/yoonlee78/textmining)
 
-### 2. New materials coming soon!
+### 2. Other [ver.](https://github.com/psynlp/Training-and-Techniques/tree/master/0704/NLP_Intro) @[PSYNLP](https://github.com/psynlp/Training-and-Techniques/blob/master/README.md) 
 
-## NLP with Deep Learning
+#### _New materials coming soon!_
 
-### 1. Deep Learning from Scratch [link]
+## IV. NLP with Deep Learning
 
-### 2. NLP with Deep Learning - coming soon!
+### 1. Deep Learning from Scratch [link](https://github.com/yoonlee78/lab_workshop/tree/master/DeepNLP)
+
+### 2. Deep Learning with Keras (Text) [link](https://github.com/yoonlee78/cogpsi/tree/master/keras/chp6_text_and_sequence)
+
+#### _New materials coming soon!_
