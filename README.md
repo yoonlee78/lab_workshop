@@ -6,7 +6,7 @@
 
 ### 1. Workshop Material [Ver.1](https://github.com/yoonlee78/pythonbootcamp) (created by Yoon Kyung Lee)
 
-### 2. Workshop Material [Ver.2](https://github.com/jehunprxzxc/PY-BOOTCAMP2019) (created by Jehun Hong)[latest!]
+### 2. Workshop Material [Ver.2](https://github.com/jehunprxzxc/PY-BOOTCAMP2019) (created by Jehun Hong, RA)
 
 #### _New version coming soon!_
 
